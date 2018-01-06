@@ -1,0 +1,8 @@
+AK1	Seattle	San Francisco
+AK2	Seattle	Denver
+SWA1	Oakland	Denver
+UA1	Denver	New York
+UA2	Denver	San Francisco
+UA3	Denver	Miami
+JB1	New York	Miami
+SWA3	Oakland	Seattle
